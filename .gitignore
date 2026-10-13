@@ -1,0 +1,11 @@
+# Fiserv confidential material never enters this repo: the PDF, its Markdown, transcriptions, reports with its text
+*.pdf
+work/
+work*/
+out/
+ref/
+ocr/
+venv
+venv/
+__pycache__/
+*.png
